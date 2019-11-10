@@ -4,5 +4,5 @@
 
 В этой задаче исполняемый файл на сервере получен командой 
 ```
-    g++ -fsanitize=undefined -fno-sanitize-recover=undefined -std=c++14 -O2 -Wall 
+    g++ -fsanitize=undefined -fno-sanitize-recover=undefined -std=c++14 -O2 -Wall abs.cpp -o abs
 ```
